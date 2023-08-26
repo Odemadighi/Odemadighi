@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Odemadighi
 - 👀 I’m interested in Science
-- 🌱 I’m currently learning all of cool stuff
+- 🌱 I’m currently learning alot of cool stuff
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me -> odemadighijonathan1@gmail.com
 
